@@ -7,7 +7,7 @@ Submitted by: Robin Obregon
 
 Flixster Pt.1 is a movie browsing app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
